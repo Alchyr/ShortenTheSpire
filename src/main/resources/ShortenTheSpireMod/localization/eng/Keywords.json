@@ -1,0 +1,303 @@
+[
+  {
+    "PROPER_NAME": "Strong",
+    "NAMES": [
+      "strong"
+    ],
+    "DESCRIPTION": "Big muscle."
+  },
+  {
+    "PROPER_NAME": "Spooky",
+    "NAMES": [
+      "spooky"
+    ],
+    "DESCRIPTION": "Spooky, but not skeleton. More ghost."
+  },
+  {
+    "PROPER_NAME": "Poof",
+    "NAMES": [
+      "poof"
+    ],
+    "DESCRIPTION": "It go away."
+  },
+  {
+    "PROPER_NAME": "Sticky",
+    "NAMES": [
+      "sticky"
+    ],
+    "DESCRIPTION": "It stuck to you."
+  },
+  {
+    "PROPER_NAME": "Waiting",
+    "NAMES": [
+      "waiting"
+    ],
+    "DESCRIPTION": "Hurry up, they want to help."
+  },
+  {
+    "PROPER_NAME": "Bendy",
+    "NAMES": [
+      "bendy"
+    ],
+    "DESCRIPTION": "Very flexible."
+  },
+  {
+    "PROPER_NAME": "Puny",
+    "NAMES": [
+      "puny"
+    ],
+    "DESCRIPTION": "Hit no hard."
+  },
+  {
+    "PROPER_NAME": "Ouch",
+    "NAMES": [
+      "ouch"
+    ],
+    "DESCRIPTION": "Hurty."
+  },
+  {
+    "PROPER_NAME": "Now",
+    "NAMES": [
+      "now"
+    ],
+    "DESCRIPTION": "Only #yNow, not Later."
+  },
+  {
+    "PROPER_NAME": "Invite",
+    "NAMES": [
+      "invite"
+    ],
+    "DESCRIPTION": "Come inside please."
+  },
+  {
+    "PROPER_NAME": "Stuff",
+    "NAMES": [
+      "stuff"
+    ],
+    "DESCRIPTION": "It could be things."
+  },
+  {
+    "PROPER_NAME": "Hurt",
+    "NAMES": [
+      "hurt"
+    ],
+    "DESCRIPTION": "Not emotional kind."
+  },
+  {
+    "PROPER_NAME": "Ouch",
+    "NAMES": [
+      "ouch"
+    ],
+    "DESCRIPTION": "Do you bleed?"
+  },
+  {
+    "PROPER_NAME": "Oof",
+    "NAMES": [
+      "oof"
+    ],
+    "DESCRIPTION": "No bully me."
+  },
+  {
+    "PROPER_NAME": "Friend",
+    "NAMES": [
+      "friend",
+      "friends"
+    ],
+    "DESCRIPTION": "They help! Helpful!"
+  },
+  {
+    "PROPER_NAME": "House",
+    "NAMES": [
+      "house",
+      "houses"
+    ],
+    "DESCRIPTION": "#yFriends can stay here!"
+  },
+  {
+    "PROPER_NAME": "Icy",
+    "NAMES": [
+      "icy"
+    ],
+    "DESCRIPTION": "Cold and hard. Not tasty."
+  },
+  {
+    "PROPER_NAME": "Chargy",
+    "NAMES": [
+      "chargy"
+    ],
+    "DESCRIPTION": "Sweet. Very Energetic."
+  },
+  {
+    "PROPER_NAME": "Sparkly",
+    "NAMES": [
+      "sparkly"
+    ],
+    "DESCRIPTION": "Friendly Friend that makes other Friends Friendlier."
+  },
+  {
+    "PROPER_NAME": "Edgy",
+    "NAMES": [
+      "edgy"
+    ],
+    "DESCRIPTION": "Chocolate that is dark like my soul."
+  },
+  {
+    "PROPER_NAME": "Cracky",
+    "NAMES": [
+      "cracky"
+    ],
+    "DESCRIPTION": "Selfish heck. No soul."
+  },
+  {
+    "PROPER_NAME": "Sparky",
+    "NAMES": [
+      "sparky"
+    ],
+    "DESCRIPTION": "Come from yellow mouse. Sour."
+  },
+  {
+    "PROPER_NAME": "Bye",
+    "NAMES": [
+      "bye",
+      "byed"
+    ],
+    "DESCRIPTION": "Go away."
+  },
+  {
+    "PROPER_NAME": "Slippery",
+    "NAMES": [
+      "slippery"
+    ],
+    "DESCRIPTION": "Oiled paper."
+  },
+  {
+    "PROPER_NAME": "Poofing",
+    "NAMES": [
+      "poofing"
+    ],
+    "DESCRIPTION": "It gonna poof soon."
+  },
+  {
+    "PROPER_NAME": "Superglued",
+    "NAMES": [
+      "superglued"
+    ],
+    "DESCRIPTION": "It doesn't come off..."
+  },
+  {
+    "PROPER_NAME": "Poofy",
+    "NAMES": [
+      "poofy"
+    ],
+    "DESCRIPTION": "It likes to poof."
+  },
+  {
+    "PROPER_NAME": "Shiny",
+    "NAMES": [
+      "shiny"
+    ],
+    "DESCRIPTION": "Very clean."
+  },
+  {
+    "PROPER_NAME": "Tender",
+    "NAMES": [
+      "tender"
+    ],
+    "DESCRIPTION": "Ouchie everything hurts."
+  },
+  {
+    "PROPER_NAME": "Talent",
+    "NAMES": [
+      "talent"
+    ],
+    "DESCRIPTION": "How do they do it?"
+  },
+  {
+    "PROPER_NAME": "Soft",
+    "NAMES": [
+      "soft"
+    ],
+    "DESCRIPTION": "Armor is too bendy."
+  },
+  {
+    "PROPER_NAME": "Holding",
+    "NAMES": [
+      "hold",
+      "holding"
+    ],
+    "DESCRIPTION": "They are all here!"
+  },
+  {
+    "PROPER_NAME": "Fake Healthy",
+    "NAMES": [
+      "fake healthy",
+      "fake_healthy"
+    ],
+    "DESCRIPTION": "Look Healthy, but not really."
+  },
+  {
+    "PROPER_NAME": "Keep",
+    "NAMES": [
+      "keep",
+      "kept"
+    ],
+    "DESCRIPTION": "No toss."
+  },
+  {
+    "PROPER_NAME": "Smart",
+    "NAMES": [
+      "smart"
+    ],
+    "DESCRIPTION": "Brain expansion."
+  },
+  {
+    "PROPER_NAME": "More",
+    "NAMES": [
+      "more"
+    ],
+    "DESCRIPTION": "Same, but More."
+  },
+  {
+    "PROPER_NAME": "No",
+    "NAMES": [
+      "no"
+    ],
+    "DESCRIPTION": "No."
+  },
+  {
+    "PROPER_NAME": "Yes",
+    "NAMES": [
+      "yes"
+    ],
+    "DESCRIPTION": "Yes."
+  },
+  {
+    "PROPER_NAME": "Toss",
+    "NAMES": [
+      "toss",
+      "tossed"
+    ],
+    "DESCRIPTION": "No more hold."
+  },
+  {
+    "PROPER_NAME": "Sticky",
+    "NAMES": [
+      "sticky"
+    ],
+    "DESCRIPTION": "It stuck to you."
+  },
+  {
+    "PROPER_NAME": "ENEMIES",
+    "NAMES": [
+      "enemies"
+    ],
+    "DESCRIPTION": "ALL."
+  },
+  {
+    "PROPER_NAME": "Impatient",
+    "NAMES": [
+      "impatient"
+    ],
+    "DESCRIPTION": "No wait for anything."
+  }
+]
